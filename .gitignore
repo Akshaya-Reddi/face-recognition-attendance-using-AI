@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.env
+credentials.json
+*.pkl
+*.h5
+models/
+.DS_Store
+.ipynb_checkpoints/
