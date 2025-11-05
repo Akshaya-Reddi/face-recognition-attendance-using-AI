@@ -1,6 +1,6 @@
 ---
 
-```markdown
+
 # 🎯 Face Recognition Attendance System (QR-Enabled)
 
 A **contactless classroom attendance system** built using **MTCNN**, **FaceNet**, **Flask**, and **Google Sheets** for seamless attendance marking through face recognition.  
@@ -164,7 +164,7 @@ Scan the **QR code** or open the link on your phone to access the web interface.
 
 ## 🧍‍♂️ Author
 
-**[Your Full Name]**
+**Akshaya Reddy Annareddy**
 AI & ML Student | Passionate about applied AI in education
 📧 Email: [[annareddyakshayar@gmail.com](mailto:annareddyakshayar@gmail.com)]
 🌐 GitHub: [https://github.com/Akshaya-Reddi](https://github.com/Akshaya-Reddi)
