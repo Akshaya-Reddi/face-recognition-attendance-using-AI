@@ -1,18 +1,5 @@
 ---
 
-### 🪜 Step-by-step guide to upload this file:
-
-1. **Go to your GitHub repository** (the one for your attendance project).
-2. Click on the **“Add file” → “Create new file”** button.
-3. In the filename box, type:
-
-   ```
-   PROCESS.md
-   ```
-4. Copy and paste the full text below into the editor (it’s formatted and ready):
-
----
-
 ## 📘 Process I Followed to Build the Face Recognition Attendance System
 
 > **Short Summary:**
