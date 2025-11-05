@@ -17,14 +17,14 @@ A **QR code** is generated to make the app accessible instantly on smartphones f
 
 ## 🧾 Features
 
-* ✅ **Real-time face detection and recognition** using MTCNN + FaceNet  
-* ✅ **QR code-based app access** for mobile compatibility  
-* ✅ **Automatic attendance logging** in Google Sheets  
-* ✅ **High accuracy SVM classifier** trained on facial embeddings  
-* ✅ **Confidence thresholding** to reject unknown faces  
-* ✅ **Multiple-face detection handling** (only one face allowed per capture)  
-* ✅ **User-friendly web interface** with camera capture and submission  
-* ✅ **Scalable and secure Google API integration**
+*  **Real-time face detection and recognition** using MTCNN + FaceNet  
+*  **QR code-based app access** for mobile compatibility  
+*  **Automatic attendance logging** in Google Sheets  
+*  **High accuracy SVM classifier** trained on facial embeddings  
+*  **Confidence thresholding** to reject unknown faces  
+*  **Multiple-face detection handling** (only one face allowed per capture)  
+*  **User-friendly web interface** with camera capture and submission  
+*  **Scalable and secure Google API integration**
 
 ---
 
@@ -131,11 +131,11 @@ Scan the **QR code** or open the link on your phone to access the web interface.
 
 ## 📸 How It Works
 
-* 1️⃣ **User scans QR code** displayed on screen
-* 2️⃣ **Camera access granted** in browser
-* 3️⃣ **System detects and recognizes** the face
-* 4️⃣ **Google Sheets** automatically updates with student name, date, and time
-* 5️⃣ If:
+* 1️ **User scans QR code** displayed on screen
+* 2️ **Camera access granted** in browser
+* 3️ **System detects and recognizes** the face
+* 4️ **Google Sheets** automatically updates with student name, date, and time
+* 5️ If:
 
 * Unknown face → displays *"Student Not Found"*
 * Multiple faces → displays *"Multiple faces detected — show one face only"*
@@ -154,11 +154,11 @@ Scan the **QR code** or open the link on your phone to access the web interface.
 
 ## 💡 Future Enhancements
 
-* 🚀 Replace Google Sheets with a dedicated **SQL/NoSQL attendance database**
-* 🚀 Add **lecturer dashboard** to dynamically generate class-wise QR codes
-* 🚀 Implement **time-restricted QR codes** (expire after 2–3 minutes)
-* 🚀 Enable **attendance editing** for lecturers
-* 🚀 Deploy fully to **cloud platforms** like AWS or Render for production use
+*  Replace Google Sheets with a dedicated **SQL/NoSQL attendance database**
+*  Add **lecturer dashboard** to dynamically generate class-wise QR codes
+*  Implement **time-restricted QR codes** (expire after 2–3 minutes)
+*  Enable **attendance editing** for lecturers
+*  Deploy fully to **cloud platforms** like AWS or Render for production use
 
 ---
 
