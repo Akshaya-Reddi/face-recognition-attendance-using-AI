@@ -162,6 +162,13 @@ Scan the **QR code** or open the link on your phone to access the web interface.
 
 ---
 
+### 📘 Project Development Process
+
+For a complete, step-by-step explanation of how this project was built — including dataset creation, model training, Google Sheets integration, Flask setup, and QR code implementation — please refer to the detailed documentation in the [**PROCESS.md**](./PROCESS.md) file.
+It contains every stage of development, key challenges faced, and how each issue was resolved, making it a great resource for beginners and educators who want to understand the workflow clearly.
+
+---
+
 ## 🧍‍♂️ Author
 
 **Akshaya Reddy Annareddy**
