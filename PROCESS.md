@@ -1,5 +1,3 @@
----
-
 ## 📘 Process I Followed to Build the Face Recognition Attendance System
 
 > **Short Summary:**
