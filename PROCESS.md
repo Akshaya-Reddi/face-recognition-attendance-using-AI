@@ -253,7 +253,7 @@ pickle.dump(label_encoder, open('label_encoder.pkl','wb'))
 
 ### 🏁 15. Final Outcome
 
-This project successfully integrates *AI-based facial recognition, **Flask web application, and **Google Sheets automation* into a fully functional, contactless classroom attendance system.
+This project successfully integrates **AI-based facial recognition**, **Flask web application**, and **Google Sheets automation** into a fully functional, contactless classroom attendance system.
 
 It demonstrates the power of combining:
 
